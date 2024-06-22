@@ -19,7 +19,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bishan-batel&show_icons=true&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/bishan-batel/">
+  <img height=200 align="" src="" />
+</a>
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=bishan-batel&show_icons=true&theme=catppuccin_mocha)](https://github.com/bishan-batel)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/bishan-batel">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=bishan_&show_icons=true&theme=catppuccin_mocha&layout=compat" />
+</a>
+
+<a href="https://github.com/bishan-batel">
+  <img height=200 align="center" src=
+    "https://github-readme-stats.vercel.app/api/top-langs?username=bishan-batel&show_icons=true&theme=catppuccin_mocha&layout=donut-vertical&hide=css,scss" />
+</a>
