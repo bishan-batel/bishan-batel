@@ -19,10 +19,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/bishan-batel/">
-  <img height=200 align="" src="" />
-</a>
-
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=bishan-batel&show_icons=true&theme=catppuccin_mocha)](https://github.com/bishan-batel)
 
 <a href="https://github.com/bishan-batel">
