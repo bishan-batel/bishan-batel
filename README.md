@@ -1,6 +1,4 @@
-Hi I'm Kishan Patel,
-
-you might know me as goose,
+Hi I'm Kishan Patel (he/him),
 
 I make things sometimes.
 
