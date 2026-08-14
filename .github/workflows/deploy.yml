@@ -1,4 +1,4 @@
-name: Deploy Static Content to GitHub Pages
+name: Github Pages Upload
 
 on:
   push:
@@ -27,10 +27,10 @@ jobs:
       - name: Set up Node
         uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 23
           cache: "npm"
 
-      - name: "Enter Portfolio Directoryt"
+      - name: "Enter Portfolio Directory"
         run: cd portfolio
 
       - name: Install dependencies
