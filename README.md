@@ -34,5 +34,4 @@ Here are some ideas to get you started:
     "https://github-readme-stats.vercel.app/api/top-langs?username=bishan-batel&show_icons=true&theme=catppuccin_mocha&layout=donut-vertical&hide=css,scss" />
 </a>
 
-<br>
-> *note that these do not include private repositories*
+*note that these do not include private repositories*
