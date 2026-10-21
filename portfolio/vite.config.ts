@@ -6,7 +6,16 @@ import babel from '@rolldown/plugin-babel'
 export default defineConfig({
   plugins: [
     react(),
-    babel({ presets: [reactCompilerPreset()] })
+    babel({ presets: [reactCompilerPreset()] }),
+    {
+      name: 'markdown-loader',
+      transform(code, id) {
+        if (id.endsWith('.md')) {
+          // Transforms raw markdown file content into a standard string export
+          return `export default ${JSON.stringify(code)};`;
+        }
+      },
+    },
   ],
-  base: '/bishan-batel/'
+  // base: '/bishan-batel/'
 })

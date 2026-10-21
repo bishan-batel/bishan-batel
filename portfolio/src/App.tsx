@@ -1,4 +1,7 @@
+import Markdown from 'react-markdown';
 import './App.css'
+
+import EpicGaming from "./articles/Test1.md"
 
 
 function SocialLinks() {
@@ -27,6 +30,9 @@ function App() {
         </div>
 
         <SocialLinks />
+      </section>
+      <section>
+        <Markdown>{EpicGaming}</Markdown>
       </section>
     </>
   )
